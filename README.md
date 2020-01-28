@@ -20,7 +20,7 @@ The data is provided in CSV files, where for the ground truth:
 
  - At the class-level, the fields provide the name of the test class, the name of the tested class, and the raters that created/inspected the link.
  - At the method-level, the fields provide the fully-qualified name of the test, the fully-qualified name of the tested function, and the raters that created/inspected the link.
- - The raters are identified either as J[n], where [n] is the ID of the judge, or DEV where the links were created by the developers.
+ - The raters are identified either as J[n], where [n] is the ID of the judge, DEV where the links were created by the developers, or a reference is provided where links were taken from previous published work.
 
 For the predicted links:
 
