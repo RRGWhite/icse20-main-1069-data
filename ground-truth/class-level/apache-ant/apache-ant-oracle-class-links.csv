@@ -1,4 +1,4 @@
-id,test-suite-class,tested-class,raters
+id,test-class,tested-class,raters
 1,antclassloader5test,antclassloader5,SCOTCH+ [1]
 2,antclassloaderdelegationtest,antclassloader,SCOTCH+ [1]
 3,antclassloadertest,antclassloader,SCOTCH+ [1]
