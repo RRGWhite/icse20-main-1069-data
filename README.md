@@ -4,7 +4,7 @@ This repository provides the data artefacts for the experiments conducted using 
 
 TCtracer is a tool that that establishes code traceability links in Java projects using the JUnit framework at the method level (function-to-test) and at the class level (test-class-to-tested-class), using a variety of techniques.
 #### Artefact Types
-This repository provides the evaluation and results data, specifically:
+This artefacts provided are the ground truth links for evaluating the techniques and the produced predicted links, specifically:
 
  - A manually curated method-level ground truth set for three projects (Commons IO, Commons Lang, and JFreeChart)
  - A manually curated class-level ground truth set for four projects (Apache Ant, Commons IO, Commons Lang, and JFreeChart)
