@@ -6,8 +6,8 @@ TCtracer is a tool that that establishes code traceability links in Java project
 #### Artefact Types
 This artefacts provided are the ground truth links for evaluating the techniques and the produced predicted links, specifically:
 
- - A manually curated method-level ground truth set for three projects (Commons IO, Commons Lang, and JFreeChart)
- - A manually curated class-level ground truth set for four projects (Apache Ant, Commons IO, Commons Lang, and JFreeChart)
+ - A manually curated method-level ground truth set for three projects (Commons IO, Commons Lang, and JFreeChart) - corresponding to RQ1 and RQ4 in the paper
+ - A manually curated class-level ground truth set for four projects (Apache Ant, Commons IO, Commons Lang, and JFreeChart) - corresponding to RQ2 and RQ3 in the paper
  - The predicted method-level links for each project and each technique - corresponding to RQ1 and RQ4 in the paper
  - The predicted class-level links for each project and each technique - corresponding to RQ2 and RQ3 in the paper
 
