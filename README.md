@@ -1,6 +1,9 @@
 
+
 ## TCtracer - ICSE 2020 - Artefacts
 This repository provides the data artefacts for the experiments conducted using our tool TCtracer for the ICSE 2020 paper "Establishing Multilevel Test-to-Code Traceability Links".
+
+**Note that the authoritative version of these artefacts is hosted on Zenodo at: [https://doi.org/10.5281/zenodo.3637597](https://doi.org/10.5281/zenodo.3637597)**
 
 TCtracer is a tool that that establishes code traceability links in Java projects using the JUnit framework at the method level (function-to-test) and at the class level (test-class-to-tested-class), using a variety of techniques.
 #### Artefact Types
